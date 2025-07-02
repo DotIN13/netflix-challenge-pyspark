@@ -4,6 +4,5 @@ cleaned-dataset-csv/
 data-parquet/
 netflix-dataset/
 *.html
-convert_parquet.py
-prepare_data.py
 .DS_Store
+artifacts
